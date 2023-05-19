@@ -1,6 +1,9 @@
 # Sunmulon-D44X
 Sunmulon D44X Quick Connect Boards
 
+![image](https://github.com/BolSadguy/Sunmulon-D44X/assets/131397163/6864541c-ace2-4238-8d98-1aab70821013)
+![image](https://github.com/BolSadguy/Sunmulon-D44X/assets/131397163/d88801f6-c610-49a1-9c4b-55b5936b4376)
+
 Fuse Clips
 
 https://www.digikey.ca/en/products/detail/keystone-electronics/3557/2092485?utm_medium=email&utm_source=oce&utm_campaign=4251_OCE22RT&utm_content=productdetail_CA&utm_cid=2879266&so=78059551&mkt_tok=MDI4LVNYSy01MDcAAAGHMHPtmaOak1J1TpUsgdqj8SAU4whqgBA5C7-R--DCjEK9Gp3UTLqF7G2w4HCjG_EsnPZDQVlgRBpgHfgLCa5kY7XNr-tyl3nXCm8l_r7u
@@ -16,3 +19,5 @@ Use M3 screws (15mm) and nuts for securing PCB and switch to button. Thumb screw
 PCBs are compatible with both 24mm and 30mm Sunmulons, though generally they must be installed after the buttons have been mounted.
 
 This revision of the PCBs is untested, though the changes between this one and the batch I used for testing are minor.
+
+When ordering on JLCPCB, choose "Specify a location" for the order number.
