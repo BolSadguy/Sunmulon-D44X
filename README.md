@@ -21,3 +21,10 @@ PCBs are compatible with both 24mm and 30mm Sunmulons, though generally they mus
 This revision of the PCBs is untested, though the changes between this one and the batch I used for testing are minor.
 
 When ordering on JLCPCB, choose "Specify a location" for the order number.
+
+Please remember to give credit where its due.
+
+DISCLAIMER:
+
+I am not responsible for fabrication errors or any damages/injuries when modding your arcade stick.
+
