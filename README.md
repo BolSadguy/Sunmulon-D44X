@@ -4,6 +4,8 @@ Sunmulon D44X Quick Connect Boards
 ![image](https://github.com/BolSadguy/Sunmulon-D44X/assets/131397163/6864541c-ace2-4238-8d98-1aab70821013)
 ![image](https://github.com/BolSadguy/Sunmulon-D44X/assets/131397163/d88801f6-c610-49a1-9c4b-55b5936b4376)
 
+NOTE: The default sunmulon switches are riveted in place. The rivets must be removed before the switch can be changed out. This can be done with a hand drill.
+
 Fuse Clips
 
 https://www.digikey.ca/en/products/detail/keystone-electronics/3557/2092485?utm_medium=email&utm_source=oce&utm_campaign=4251_OCE22RT&utm_content=productdetail_CA&utm_cid=2879266&so=78059551&mkt_tok=MDI4LVNYSy01MDcAAAGHMHPtmaOak1J1TpUsgdqj8SAU4whqgBA5C7-R--DCjEK9Gp3UTLqF7G2w4HCjG_EsnPZDQVlgRBpgHfgLCa5kY7XNr-tyl3nXCm8l_r7u
